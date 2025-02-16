@@ -23,4 +23,5 @@ Belajar kelas **Memulai Pemrograman dengan Java**. *(Progres 100%)*
 
 21 Juni 2021
 --
-Mendapatkan sertifikat
+Mendapatkan sertifikat  
+Mendapatkan transkrip nilai
